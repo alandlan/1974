@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uSX7Yu0EiQg/V/VKK2zPbySaHJ70tHeyiDlt/7U8dDk6nek3teJZroU2IBtlwFMg3A9nyMhNEhuXXeVAtoAGpw==",
+  "success": true,
+  "projectFilePath": "/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Infra/AlanStore.Infra.csproj",
+  "expectedPackageFiles": [
+    "/home/alan/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/alan/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

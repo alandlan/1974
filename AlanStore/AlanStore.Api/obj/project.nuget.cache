@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "43LlR8yJz3yx5RvjgepW76k79VlbTNKb6uxsq1BvYj2Nu3k6Wx2ewFPQeI6wveM9TrXptfswr+A1ekpd34Xolg==",
+  "success": true,
+  "projectFilePath": "/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Api/AlanStore.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/alan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

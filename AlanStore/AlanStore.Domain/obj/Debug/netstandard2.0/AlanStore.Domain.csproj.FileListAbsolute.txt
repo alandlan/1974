@@ -1,0 +1,9 @@
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Domain/bin/Debug/netstandard2.0/AlanStore.Domain.deps.json
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Domain/bin/Debug/netstandard2.0/AlanStore.Domain.dll
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Domain/bin/Debug/netstandard2.0/AlanStore.Domain.pdb
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Domain/obj/Debug/netstandard2.0/AlanStore.Domain.csprojAssemblyReference.cache
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Domain/obj/Debug/netstandard2.0/AlanStore.Domain.AssemblyInfoInputs.cache
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Domain/obj/Debug/netstandard2.0/AlanStore.Domain.AssemblyInfo.cs
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Domain/obj/Debug/netstandard2.0/AlanStore.Domain.csproj.CoreCompileInputs.cache
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Domain/obj/Debug/netstandard2.0/AlanStore.Domain.dll
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Domain/obj/Debug/netstandard2.0/AlanStore.Domain.pdb
