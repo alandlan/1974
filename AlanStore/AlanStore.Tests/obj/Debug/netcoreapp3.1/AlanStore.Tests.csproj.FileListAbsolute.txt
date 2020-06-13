@@ -92,3 +92,5 @@
 /home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Tests/obj/Debug/netcoreapp3.1/AlanStore.Tests.dll
 /home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Tests/obj/Debug/netcoreapp3.1/AlanStore.Tests.pdb
 /home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Tests/obj/Debug/netcoreapp3.1/AlanStore.Tests.genruntimeconfig.cache
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Tests/bin/Debug/netcoreapp3.1/AlanStore.Domain.dll
+/home/alan/Cursos/BaltaIO/1974/AlanStore/AlanStore.Tests/bin/Debug/netcoreapp3.1/AlanStore.Domain.pdb
